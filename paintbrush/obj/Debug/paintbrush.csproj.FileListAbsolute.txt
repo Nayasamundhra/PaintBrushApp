@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\paintbrush\paintbrush\bin\Debug\paintbrush.exe.config
+C:\Users\user\source\repos\paintbrush\paintbrush\bin\Debug\paintbrush.exe
+C:\Users\user\source\repos\paintbrush\paintbrush\bin\Debug\paintbrush.pdb
+C:\Users\user\source\repos\paintbrush\paintbrush\obj\Debug\paintbrush.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\paintbrush\paintbrush\obj\Debug\paintbrush.Form1.resources
+C:\Users\user\source\repos\paintbrush\paintbrush\obj\Debug\paintbrush.Properties.Resources.resources
+C:\Users\user\source\repos\paintbrush\paintbrush\obj\Debug\paintbrush.csproj.GenerateResource.cache
+C:\Users\user\source\repos\paintbrush\paintbrush\obj\Debug\paintbrush.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\paintbrush\paintbrush\obj\Debug\paintbrush.exe
+C:\Users\user\source\repos\paintbrush\paintbrush\obj\Debug\paintbrush.pdb
